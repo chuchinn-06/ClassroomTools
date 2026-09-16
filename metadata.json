@@ -1,0 +1,6 @@
+{
+  "name": "課堂抽籤與自動分組工具",
+  "description": "專為老師設計的課堂工具，支援模擬名單、CSV 匯入與重複姓名偵測去重，具備動態音效抽籤（可選重複或不重複）與自動分組及 CSV 匯出功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
